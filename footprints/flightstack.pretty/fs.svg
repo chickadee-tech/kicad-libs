@@ -9,13 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="6.3576069mm"
+   width="6.0373507mm"
    height="5.0799999mm"
-   viewBox="0 0 22.526954 18"
+   viewBox="0 0 21.392187 18"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="fs.svg">
+   sodipodi:docname="fs.svg"
+   inkscape:export-filename="/Users/tannewt/chickadee-projects/shared/kicad/libraries/public/footprints/flightstack.pretty/fs_thin.png"
+   inkscape:export-xdpi="3595.0005"
+   inkscape:export-ydpi="3595.0005">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -35,9 +38,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1440"
-     inkscape:window-height="781"
-     inkscape:window-x="0"
+     inkscape:window-width="1600"
+     inkscape:window-height="779"
+     inkscape:window-x="1440"
      inkscape:window-y="1"
      inkscape:window-maximized="1" />
   <metadata
@@ -69,6 +72,7 @@
          sodipodi:role="line"
          id="tspan4138"
          x="71.428574"
-         y="69.505058">FS</tspan></text>
+         y="69.505058"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Cuprum;-inkscape-font-specification:'Cuprum Italic'">FS</tspan></text>
   </g>
 </svg>

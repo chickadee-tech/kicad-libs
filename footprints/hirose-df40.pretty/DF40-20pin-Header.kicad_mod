@@ -1,8 +1,9 @@
-(module DF40-20pin-Header (layer F.Cu) (tedit 5637BF41)
-  (fp_text reference REF** (at -0.14 3.8) (layer F.SilkS)
+(module DF40-20pin-Header (layer F.Cu) (tedit 56AED3FC)
+  (attr smd)
+  (fp_text reference P5 (at -0.14 3.8) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value DF40-20pin-Header (at -3.1 -1.03 90) (layer F.Fab)
+  (fp_text value CONN_02X10 (at -3.1 -1.03 90) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -0.925 2.76) (end 0.925 2.76) (layer F.SilkS) (width 0.15))
