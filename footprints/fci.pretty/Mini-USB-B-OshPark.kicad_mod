@@ -1,4 +1,4 @@
-(module Mini-USB-B (layer F.Cu) (tedit 56F230F3)
+(module Mini-USB-B-OshPark (layer F.Cu) (tedit 563F053D)
   (fp_text reference P2 (at -6.78 -1.46) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -15,6 +15,6 @@
   (pad 5 smd rect (at 1.3 -2.675) (size 0.4 1.35) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at -1.2 0) (size 1.9 1.9) (layers F.Cu F.Paste F.Mask))
   (pad 6 smd rect (at 1.2 0) (size 1.9 1.9) (layers F.Cu F.Paste F.Mask))
-  (pad 6 thru_hole oval (at -3.3 0) (size 0.9 1.6) (drill oval 0.5 1.2) (layers *.Cu *.Mask F.SilkS))
-  (pad 6 thru_hole oval (at 3.3 0) (size 0.9 1.6) (drill oval 0.5 1.2) (layers *.Cu *.Mask F.SilkS))
+  (pad 6 thru_hole circle (at -3.3 0) (size 1.6 1.6) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
+  (pad 6 thru_hole circle (at 3.3 0) (size 1.6 1.6) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
 )
