@@ -1,9 +1,6 @@
 # Chickadee Tech Kicad Libs #
 These are the Kicad components and footprints used in Chickadee Tech designs.
 
-## Documentation ##
-See the [wiki](https://github.com/chickadee-tech/kicad-libs/wiki) for documentation.
-
 ## Support ##
 Use these components and footprints at your own risk!
 
@@ -18,5 +15,3 @@ For fixes please submit a pull request to the original repository.
 
 ### Use in new designs ###
 If developing your own board with these footprints DO NOT use Chickadee Tech trademarks (footprints/chickadee) and follow the [CC-BY license](LICENSE). While not required, please consider open sourcing your modifications so others can learn from your improvements.
-
-You may license the Polystack logo (footprints/polystack) for free by emailing support@chickadee.tech. We'll ask for your gerbers to ensure the design complies with specifications laid out [here](https://github.com/chickadee-tech/polystack/wiki) and provide written permission to use the trademark after compliance has been demonstrated.
