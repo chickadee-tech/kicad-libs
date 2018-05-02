@@ -46,7 +46,7 @@
   (pad 23 thru_hole oval (at 20.32 25.4) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 24 thru_hole oval (at 20.32 27.94) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (model ${KISYS3DMOD}/Pin_Headers.3dshapes/Pin_Header_Straight_1x16_Pitch2.54mm.wrl
-    (at (xyz 0 -0.75 0))
+    (offset (xyz 0 -19.04999971389771 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 90))
   )

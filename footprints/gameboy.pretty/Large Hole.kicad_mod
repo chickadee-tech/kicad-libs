@@ -1,0 +1,9 @@
+(module "Large Hole" (layer F.Cu) (tedit 5AE809BB)
+  (fp_text reference J2 (at 0 0.5) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Conn_01x01 (at 0 -0.5) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 7.4 7.4) (drill 7.3) (layers *.Cu *.Mask))
+)
