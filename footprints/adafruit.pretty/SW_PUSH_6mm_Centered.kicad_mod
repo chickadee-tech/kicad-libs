@@ -1,4 +1,4 @@
-(module SW_PUSH_6mm_Centered (layer F.Cu) (tedit 5AA56620)
+(module SW_PUSH_6mm_Centered (layer F.Cu) (tedit 5BE893F5)
   (descr https://www.omron.com/ecb/products/pdf/en-b3f.pdf)
   (tags "tact sw push 6mm")
   (fp_text reference SW2 (at 0 -4.25) (layer F.SilkS)
